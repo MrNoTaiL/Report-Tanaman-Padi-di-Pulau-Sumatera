@@ -16,5 +16,36 @@ Fokus pada satu komoditi yaitu Padi yang merupakan komoditi utama. Diharapkan da
 ## Pembahasan
 <p>Bagian 1 - Preparation Data:</p>
 Pertama yang dilakukan dalam menganalisis data adalah tahap preparation data. load data pada python menggunakan syntax pandas. Dapat dilihat terdapat variabel Provinsi, Tahun, Produksi, Luas Panen, Curah hujan, Kelembapan, Suhu rata-rata.
+<br>
+(img1)
 <br><br>
 <p>Bagian 2 - Data Cleansing:</p>
+Pada bagian ini, hal yang dilakukan adalah melihat dataset Tanaman Padi Sumatera,Indonesia sudah sesuai dengan type data tersebut.
+<br>
+Dari informasi dibawah ini, bisa dilihat masing-masing variabel sudah sesuai dengan tipe dari data
+<br>
+(img2)
+<br>
+Proses selanjutnya melihat missing value, dalam hal ini data terlihat lengkap dan terlihat dari tidak adanya missing value yang ditunjukan
+<br>
+(img3)
+<br>
+Proses selanjutnya adalah melihat outlier. outlier merupakan nilai ekstrim atau nilai berbeda dengan pengamatan yang dilakukan. nilai ini muncul akibat perbedaan satuan atau nilai asli dari kodisi sebenarnya.
+<br>
+Menggunakan 3 cara untuk melihat, yaitu dengan melihat nilai minimal dan maksimal di setiap variabelnya
+<br>
+(img4)
+<br>
+Dengan menggunakan histogram, dapat mengetahui visualisasi dari outlier tersebut.
+<br>
+(img5)
+<br>
+Menggunakan boxplot , juga bisa mengetahui outlier dengan memvisualisasikannya.
+<br>
+(img6)
+<br>
+Hasilnya dapat diketahui jika variabel Luas Panen terdapat outlier. Nilai outlier yang terdapat di variabel Luas Panen kemungkinan berasal dari perbedaan wilayah tiap provinsi.
+<br>
+Setelah melihat adanya outlier pada variabel Luas Panen, proses selanjutnya adalah memperbaiki atau <i>manipulation data</i> dengan metode IQR. Setelah dilakukan proses IQR, menghasilkan variabel baru yaitu Luas Panen yang sudah di hitung. Dapat dilihat hasilnya tidak terdapat lagi outlier pada variabel tersebut.
+<br>
+(img7)
