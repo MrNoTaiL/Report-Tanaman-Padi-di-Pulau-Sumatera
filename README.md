@@ -1,4 +1,4 @@
-# Report-Tanaman-Padi-di-Sumatera
+# Report - Produksi Padi di Sumatera
 Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menganalisa data yang bersumber dari website kaggle.com tentang Dataset Tanaman Padi di Sumatera,Indonesia dan melihat <i>insight</i> yang dihasilkan dari proses analisis data tersebut. 
 
 ## Sumber Data
