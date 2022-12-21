@@ -37,7 +37,7 @@ Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menga
 
 <h3>Bagian 3 - Exploratory Data:</h3>
 <p align="justify">Pada bagian ini, data akan di <i>explore</i> untuk menjawab 3 pertanyaan pada rumusan masalah. Rumusan pertanyaan yang pertama adalah apakah terdapat korelasi antara variabel lain dengan variabel produksi. Cara menjawabnya dengan menggunakan <i>syntax correlation</i> dapat mengetahui vairabel mana saja yang akan mempengaruhi Produksi.</p>
-<p align="justify">Seperti gambar dibawah ini, Adanya korelasi variabel antara vairabel hanya ditunjukan dengan variabel Luas Panen saja. Variabel curah hujan, kelembapan, dan suhu rata-rata tidak menunjukan korelasi.</p>
+<p align="justify">Seperti gambar dibawah ini, Adanya korelasi variabel antara vairabel hanya ditunjukan dengan variabel Luas Panen saja. Variabel curah hujan, kelembapan, dan suhu rata-rata tidak menunjukan korelasi. Luas Panen merupakan gambaran pengukuran subjektif, seperti penggunaan benih, penggunaan air untuk irigasi (blok pengairan), informasi dari petani dan aparat desa, serta pengamatannya dengan pandangan mata (eye estimate). Sehingga dalam pengamatan database ini Luas Panen memiliki korelasi dengan produksi padi. </p>
 (img8)
 <p align="justify">Hal ini juga diperkuat dengan adanya visualisasi menggunakan seaborn regplot yang menunjukan adanya nilai yang mendekati tren line.</p>
 (img9)
@@ -47,3 +47,9 @@ Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menga
 (img10)
 <p align="justify">Pada pertumbuhan produksi padi di sumatera, tahun 2018-2020 mengalami penurunan. Seperti pada data visualisasi dibawah ini. dapat dilihat adanya penurunan produksi padi</p>
 (img11)
+
+## Kesimpulan
+Dari analisis diatas dapat disimpilkan:
+<p align="justify">1. Adanya korelasi variabel. Variabel Luas Panen dengan Produksi. Hal ini ditunjukan dengan nilai 1.00 yang artinya ada korelasi variabel.</p> 
+<p align="justify">2. Nilai produksi padi di tunjukan dengan nilai maksimal dan minimal di setiap provinsi. Hal ini dapat dilihat, Provinsi Sumatera Selatan memiliki produksi padi yang besar ketimbang provinsi lainnya di pulau Sumatera. Kemudian produksi padi terendah berada di provinsi Jambi.</p>
+<p align="justify">3. Pertumbuhan produksi padi dari tahun 1993-2017 mengalami kenaikan, akan tetapi di tahun 2018-2020 mengalami penurunan. Penurunan ini diakibatkan adanya virus corona yang melanda Indonesia, bahkan dunia. Sehingga, berdampak pada produksi padi di Sumatera</p>
