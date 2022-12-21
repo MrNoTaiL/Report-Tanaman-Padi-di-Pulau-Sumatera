@@ -11,7 +11,7 @@ Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menga
 ## Rumusan Masalah
 1. Apakah terdapat korelasi variabel yang lain terhadap variabel produksi padi ?
 2. Berapa nilai produksi padi di tiap provinsi ?
-3. Bagaimana pertumbuhan produksi padi dari tahun 1993 sampai 2020 ?
+3. Bagaimana pertumbuhan produksi padi dari tahun 1993-2020 ?
 
 ## Pembahasan
 <h3>Bagian 1 - Preparation Data:</h3>
