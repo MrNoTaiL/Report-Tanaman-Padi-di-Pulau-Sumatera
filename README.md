@@ -63,7 +63,7 @@ Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menga
 
 <img src="https://github.com/MrNoTaiL/Report-Tanaman-Padi-di-Pulau-Sumatera/blob/main/img/10.jpg?raw=true"></img>
 
-<p align="justify">Pada pertumbuhan produksi padi di sumatera, tahun 2018-2020 mengalami penurunan. Seperti pada data visualisasi dibawah ini. dapat dilihat adanya penurunan produksi padi</p>
+<p align="justify">Pada pertumbuhan produksi padi di sumatera, tahun 2018-2020 mengalami penurunan. Seperti pada data visualisasi dibawah ini. dapat dilihat adanya penurunan produksi padi di tahun 2018-2020. Hal ini disebabkan adanya virus covid-19 yang sedang melanda dunia dan dampaknya juga dirasakan oleh masyarakat di Indonesia.</p>
 
 <img src="https://github.com/MrNoTaiL/Report-Tanaman-Padi-di-Pulau-Sumatera/blob/main/img/11.jpg?raw=true"></img>
 
