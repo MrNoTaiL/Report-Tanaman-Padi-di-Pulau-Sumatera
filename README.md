@@ -6,7 +6,7 @@ Halo !! Selamat datang di repositori ini !! Tujuan dari project ini adalah menga
 <p align="justify">Pengambilan data diperoleh melalui website BPS pada kategori tanaman pangan utama dari 8 provinsi di pulau Sumatera yaitu Nanggroe Aceh Darussalam (NAD), Sumatera Utara, Riau, Jambi, Sumatera Selatan, Bengkulu dan Lampung. Data yang digunakan adalah data dari tahun 1993 hingga tahun 2020 untuk dataset padi. Data memuat hasil produksi tahunan dan luas panen atau luas lahan. Kemudian data perubahan cuaca diperoleh melalui website BMKG untuk data harian curah hujan, kelembapan, dan temperatur rata-rata atau suhu rata-rata dari tahun 1993 hingga tahun 2020. Pengambilan data juga berasal dari website kaggle pada bagian data set tranding atau bisa <a href="https://www.kaggle.com/datasets/ardikasatria/datasettanamanpadisumatera">disini</a>.</p>
 
 ## Latar Belakang
-<p align="justify">Fokus pada satu komoditi yaitu Padi yang merupakan komoditi utama. Diharapkan dapat menjadi komoditi yang bisa memenuhi kebutuhan pangan masyarakat sumatera dan dapat meningkatkan sektor pertanian di sumatera.</p>
+<p align="justify">Fokus pada satu komoditi yaitu Padi yang merupakan komoditi utama. Diharapkan dapat menjadi komoditi yang bisa memenuhi kebutuhan pangan masyarakat sumatera dan dapat meningkatkan sektor pertanian di sumatera. Sehingga perlu adanya analisis lebih lanjut terkait pertumbuhan produksi padi di Sumatera.</p>
 
 ## Rumusan Masalah
 1. Apakah terdapat korelasi variabel yang lain terhadap variabel produksi padi ?
